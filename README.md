@@ -5,7 +5,7 @@ Designed an interactive and responsive landing page for a gig finding website fo
 ## Tools & Technologies Used
 - **HTML**
 - **CSS**
-- **Canva **
+- **Canva**
 
 ## Landing Page Design
 
